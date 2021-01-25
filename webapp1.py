@@ -204,17 +204,9 @@ def predict():
             Vistara_Premium_economy = 0
             Trujet = 0
 
-        # print(Jet_Airways,
-        #     IndiGo,
-        #     Air_India,
-        #     Multiple_carriers,
-        #     SpiceJet,
-        #     Vistara,
-        #     GoAir,
-        #     Multiple_carriers_Premium_economy,
-        #     Jet_Airways_Business,
-        #     Vistara_Premium_economy,
-        #     Trujet)
+     
+    
+    
 
         # Source
         Source = request.form["Source"]
